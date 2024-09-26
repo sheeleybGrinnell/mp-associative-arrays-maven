@@ -1,7 +1,10 @@
 Associative Arrays
 ==================
 
-Starter code for a CSC-207 project on associative arrays.
+Description (replace later)
 
-_Students must replace the contents of this file with appropriate
-contents, including class, author, date, and URL._
+CSC-207
+Benjamin Sheeley
+09/26/2024
+
+https://github.com/sheeleybGrinnell/mp-associative-arrays-maven
